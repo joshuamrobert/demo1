@@ -1,0 +1,88 @@
+.a:hover{
+    
+    background-color: crimson;
+     position: relative;
+     animation-name: square;
+     animation-duration: 4s;}
+ 
+
+ @Keyframes square{
+     0% {background-color: red;
+     
+ }
+     25%{background-color: aquamarine;
+     }
+     50% {background-color: chartreuse;
+     }
+     75% {background-color: orange;
+   }
+     100% {background-color: blue;
+    
+ 
+ }
+ }
+ .b:hover{
+ 
+     background-color: crimson;
+      position: relative;
+      animation-name: square;
+      animation-duration: 4s;}
+  
+ 
+  @Keyframes square{
+      0% {background-color: red;
+      
+  }
+      25%{background-color: aquamarine;
+      }
+      50% {background-color: chartreuse;
+      }
+      75% {background-color: orange;
+    }
+      100% {background-color: blue;
+     
+  
+  }}.a:hover{
+ 
+     background-color: crimson;
+      position: relative;
+      animation-name: square;
+      animation-duration: 4s;}
+  
+ 
+  @Keyframes square{
+      0% {background-color: red;
+      
+  }
+      25%{background-color: aquamarine;
+      }
+      50% {background-color: chartreuse;
+      }
+      75% {background-color: orange;
+    }
+      100% {background-color: blue;
+     
+  
+  }}
+  .d:hover{
+ 
+     background-color: crimson;
+      position: relative;
+      animation-name: square;
+      animation-duration: 4s;}
+  
+ 
+  @Keyframes square{
+      0% {background-color: red;
+      
+  }
+      25%{background-color: aquamarine;
+      }
+      50% {background-color: chartreuse;
+      }
+      75% {background-color: orange;
+    }
+      100% {background-color: blue;
+     
+      }
+  }
